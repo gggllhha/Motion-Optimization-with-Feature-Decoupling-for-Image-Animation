@@ -1,6 +1,6 @@
 # Motion Optimization with Feature Decoupling for Image Animation
 
-[论文](./master/Motion Optimization with Feature Decoupling for Image Animation.pdf)
+[点击查看论文](https://github.com/gggllhha/Motion-Optimization-with-Feature-Decoupling-for-Image-Animation/edit/master/)
 
 ![image](/fig1.png)
 
