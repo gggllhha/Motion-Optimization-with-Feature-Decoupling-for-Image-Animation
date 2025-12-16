@@ -1,6 +1,6 @@
 # Motion Optimization with Feature Decoupling for Image Animation
 
-Paper:master/Motion Optimization with Feature Decoupling for Image Animation.pdf
+[论文](./master/Motion Optimization with Feature Decoupling for Image Animation.pdf)
 
 ![image](/fig1.png)
 
